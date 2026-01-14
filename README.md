@@ -16,7 +16,7 @@ The frontend is a Node.js Express server delivering a clean "Deployment Successf
 
 ### 2. AWS App Runner Infrastructure
 The service is managed by AWS, providing built-in load balancing and SSL termination.
-![AWS Console](./images/aws-dashboard.png)
+![AWS Console](./aws-dashboard.png)
 
 ### 3. Developer Workflow (CI/CD)
 Using Git Bash and VS Code, code changes are pushed to GitHub, which automatically signals AWS to redeploy the latest version.
