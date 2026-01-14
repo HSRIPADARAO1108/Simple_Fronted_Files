@@ -12,7 +12,7 @@ This project demonstrates a professional cloud-native CI/CD pipeline. It feature
 
 ### 1. Live Production Site
 The frontend is a Node.js Express server delivering a clean "Deployment Successful" message.
-![Live Website](./images/website.png)
+![Live Website](./website.png)
 
 ### 2. AWS App Runner Infrastructure
 The service is managed by AWS, providing built-in load balancing and SSL termination.
