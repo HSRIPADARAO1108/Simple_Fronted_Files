@@ -20,7 +20,7 @@ To test the automation, I updated the `index.js` locally and pushed to GitHub. A
 
 ### 3. AWS Infrastructure Health
 The AWS App Runner console confirms the service status is **Running** and healthy, linked directly to the GitHub source.
-![AWS Console Status](./aws-dashboard.png)
+![AWS Console Status](./aws-dashboard1.png)
 
 ---
 
